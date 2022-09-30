@@ -1,0 +1,195 @@
+body {
+  background-color: #1b1f26 !important;
+  overflow-x: hidden !important;
+}
+.hero1 {
+  display: flex;
+  height: 90vh;
+  justify-content: center;
+  flex-direction: column;
+  padding-left: 20px;
+}
+.type {
+  font-size: 50px;
+}
+.hero2 {
+  display: flex;
+  margin-top: 10px;
+}
+.hero3 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 90vh;
+}
+
+.im1 {
+  display: flex;
+  flex-direction: row;
+}
+.btn1 {
+  background-color: #28e0d7;
+  color: white;
+  font-size: 20px;
+  border-radius: 10px;
+}
+.btn2 {
+  display: flex;
+  font-size: 20px;
+  color: white;
+  border: #1b1f26;
+  background-color: #1b1f26;
+}
+.section1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 90vh;
+}
+.safemoon {
+  font-size: 30px;
+}
+.bg {
+  background-color: #1b1f26 !important;
+}
+.pc {
+  color: white;
+}
+.about {
+  background-color: #1d3e42;
+  color: #21bbb3;
+  width: 15%;
+  padding: 8px;
+  border-radius: 5%;
+}
+.V6 {
+  display: flex;
+  height: 90vh;
+  justify-content: center;
+  align-items: center;
+}
+.im1 {
+  border-radius: 50%;
+}
+.section2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 90vh;
+  color: aliceblue;
+  background-color: #1b1f26;
+}
+.sec2 {
+  display: flex;
+  height: 90vh;
+  align-items: baseline;
+  justify-content: center;
+  flex-direction: column;
+  // background-color: #1d3e42;
+  // color: #21bbb3;
+  // padding: 10px;
+}
+.sec21 {
+  display: flex;
+  height: 90vh;
+  align-items: center;
+  justify-content: center;
+}
+.sec31 {
+  display: flex;
+  height: 50vh;
+  align-items: center;
+  justify-content: center;
+}
+
+.section3 {
+  height: 60vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #1b1f26;
+}
+.user {
+  display: flex;
+  height: 30vh;
+  align-items: center;
+}
+.community {
+  color: white;
+  padding: 20px;
+}
+.ic-bg {
+  padding: 10px;
+  border-radius: 10px;
+  background-color: #24282f;
+}
+h6 {
+  color: #28e0d7;
+}
+.navbar {
+  justify-content: center;
+  display: flex;
+  position: fixed;
+  width: 100%;
+  backdrop-filter: blur(6px);
+  transition: background-color 0.3s ease-in-out;
+}
+.cat {
+  display: flex;
+  flex-direction: row;
+}
+.bg-4 {
+  background-image: url("https://safemoon.com/_next/static/media/token.66f73762.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: 100%;
+  width: 100%;
+  background-color: black;
+}
+.section5 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  height: 40vh;
+  // padding-left: 30px;
+  background-color: #1b1f26;
+}
+.footer {
+  display: flex;
+  // height: 60vh;
+  align-items: center;
+  justify-content: center;
+  background-color: #1b1f26;
+}
+.footer1 {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
+.pc2 {
+  color: #28e0d7;
+}
+.policy {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  flex-direction: row;
+}
+.btn {
+  margin-top: 20px;
+  color: #28e0d7;
+  border: #1b1f26;
+  background-color: #1b1f26;
+}
+.copyright {
+  display: flex;
+  margin-top: 10px;
+  justify-content: center;
+  color: white;
+}
+.token {
+  background-color: #1d3e42;
+  color: #21bbb3;
+  padding: 5px;
+}
