@@ -87,7 +87,7 @@ function Footer() {
           </button>
         </div>
         <p className="copyright">
-          Copyright © 2022 SafeMoon US LLC | All Rights Reserved.
+          Copyright © 2022 SafeMoon US LLC | All Rights Reserved !!.
         </p>
       </div>
     </div>
