@@ -1,5 +1,4 @@
 import React from "react";
-import Typed from 'react-typed';
 function Hero() {
   return (
    
@@ -9,10 +8,9 @@ function Hero() {
           <div className="hero1">
             <div className="text-start pc">
               <span>WELCOME TO</span> <br/>
-              <span className="type"><Typed
-                    strings={['SAFEMOON']}
-                    typeSpeed={80}
-                /></span><br/>
+              <span className="type">
+                    SAFEMOON
+                </span><br/>
               <span>Community-driven Innovation for Good</span>
             </div>
             <div className=" hero2"> 

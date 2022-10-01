@@ -28,7 +28,7 @@ function Section1() {
             </p>
           </div>
         </div>
-        {/* <div class=" col-md-1"></div> */}
+        {/* <div className=" col-md-1"></div> */}
         <div className=" col-md-6">
           <div className="sec21">
             <img

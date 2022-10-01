@@ -1,9 +1,8 @@
-import React from 'react'
+import React from "react";
 
 function Header() {
   return (
-  <div>
-   
+    <div className="nb1">
       <nav className="navbar navbar-expand-lg">
         <div className="container">
           <a className="navbar-brand" href="/">
@@ -45,12 +44,12 @@ function Header() {
                   </a>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link"href="/">
+                  <a className="nav-link" href="/">
                     <b className="pc"> Merch</b>
                   </a>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link"href="/">
+                  <a className="nav-link" href="/">
                     <b className="pc">Partners</b>
                   </a>
                 </li>
@@ -69,9 +68,8 @@ function Header() {
           </div>
         </div>
       </nav>
-   
-  </div>
+    </div>
   );
 }
 
-export default Header
+export default Header;

@@ -126,13 +126,14 @@ body {
 h6 {
   color: #28e0d7;
 }
-.navbar {
-  justify-content: center;
+.nb1 {
   display: flex;
-  position: fixed;
+   justify-content: center;
+   align-items: center;
+   position: fixed;
   width: 100%;
   backdrop-filter: blur(6px);
-  transition: background-color 0.3s ease-in-out;
+  // transition: background-color 0.3s ease-in-out;
 }
 .cat {
   display: flex;
